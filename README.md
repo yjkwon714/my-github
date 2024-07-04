@@ -1,6 +1,8 @@
 Welcome to the AWS CodeStar sample web service
 ==============================================
 
+Let's test trigger #2
+
 This sample code helps get you started with a simple Java web service
 deployed by AWS Elastic Beanstalk and AWS CloudFormation.
 
